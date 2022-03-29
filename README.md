@@ -1,5 +1,7 @@
 # Checkout SKD for Flutter
 
+> :warning: **This SDK is in the Public Beta phase.** 
+
 A Flutter plugin that wraps the Checkout.com's [tokenization API](https://api-reference.checkout.com/#operation/requestAToken) in order to allow the tokenization for
 card details as well as Apple Pay and Google Pay payloads.
 
